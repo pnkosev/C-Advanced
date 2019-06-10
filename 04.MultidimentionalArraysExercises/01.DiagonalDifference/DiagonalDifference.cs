@@ -1,5 +1,4 @@
-﻿
-namespace _01.DiagonalDifference
+﻿namespace _01.DiagonalDifference
 {
     using System;
     using System.Linq;
